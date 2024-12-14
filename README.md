@@ -41,7 +41,7 @@ bash download-dataset.sh
 	- **Suicidal Thoughts Prediction**: Analyze the likelihood of suicidal thoughts based on Work Pressure, Academic Pressure, Financial Stress, etc
     **Algorithm**: Decison Tree
 
-- **Association Rule Mining** <br>
+- **Association Rule Mining** ✅ <br>
     Explore patterns among categorical variables:
 	- Use Apriori or FP-Growth algorithms to find relationships like:
         - “Individuals with high academic pressure and low sleep duration are more likely to report depression.”
