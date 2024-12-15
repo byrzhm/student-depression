@@ -29,13 +29,13 @@ bash download-dataset.sh
 	    - Correlation matrix to identify relationships between numeric variables like CGPA, Sleep Duration, and pressures.
     - **Missing Values Analysis**: Check for and handle missing or inconsistent data
 
-- **Clustering** <br>
+- **Clustering** ✅ <br>
     Use clustering to identify patterns or groups within the dataset:
 	- **K-Means or Hierarchical Clustering**: Group individuals based on variables like Academic Pressure, Work Pressure, Sleep Duration, and Financial Stress.
 	- **Principal Component Analysis (PCA)**: Reduce dimensionality for visualization of clusters.
 
 
-- **Classification and Prediction** <br>
+- **Classification and Prediction** ✅ <br>
     Develop models to predict key outcomes:
 	- **Depression Prediction**: Use features like Sleep Duration, Dietary Habits, Financial Stress, and Family History of Mental Illness to predict depression.
 	- **Suicidal Thoughts Prediction**: Analyze the likelihood of suicidal thoughts based on Work Pressure, Academic Pressure, Financial Stress, etc
