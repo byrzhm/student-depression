@@ -1,4 +1,9 @@
+<div align="center">
+
 # 学生抑郁分析报告
+[English](README.md) | 中文
+</div>
+
 
 学生抑郁数据集研究
 

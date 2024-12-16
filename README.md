@@ -1,6 +1,9 @@
+<div align="center">
+
 # Student Depression
 
-[中文文档](./README_CN.md)
+English | [中文](README_CN.md)
+</div>
 
 Student Depression Dataset Analysis
 
